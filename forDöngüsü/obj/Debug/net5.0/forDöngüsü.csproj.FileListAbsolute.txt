@@ -1,0 +1,16 @@
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\forDöngüsü\bin\Debug\net5.0\forDöngüsü.exe
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\forDöngüsü\bin\Debug\net5.0\forDöngüsü.deps.json
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\forDöngüsü\bin\Debug\net5.0\forDöngüsü.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\forDöngüsü\bin\Debug\net5.0\forDöngüsü.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\forDöngüsü\bin\Debug\net5.0\forDöngüsü.dll
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\forDöngüsü\bin\Debug\net5.0\ref\forDöngüsü.dll
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\forDöngüsü\bin\Debug\net5.0\forDöngüsü.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\forDöngüsü\obj\Debug\net5.0\forDöngüsü.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\forDöngüsü\obj\Debug\net5.0\forDöngüsü.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\forDöngüsü\obj\Debug\net5.0\forDöngüsü.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\forDöngüsü\obj\Debug\net5.0\forDöngüsü.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\forDöngüsü\obj\Debug\net5.0\forDöngüsü.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\forDöngüsü\obj\Debug\net5.0\forDöngüsü.dll
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\forDöngüsü\obj\Debug\net5.0\ref\forDöngüsü.dll
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\forDöngüsü\obj\Debug\net5.0\forDöngüsü.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\forDöngüsü\obj\Debug\net5.0\forDöngüsü.genruntimeconfig.cache
